@@ -1,7 +1,7 @@
 {
       "name"                        : "related-reference-counter"
     , "description"                 : "count references, order by them"
-    , "version"                     : "0.1.2"
+    , "version"                     : "0.1.3"
     , "homepage"                    : "https://github.com/eventEmitter/related-reference-counter"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)"
     , "licence"                     : "MIT"
