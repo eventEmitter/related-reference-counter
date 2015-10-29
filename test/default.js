@@ -5,12 +5,11 @@
 	var   log 			= require('ee-log')
 		, assert 		= require('assert')
 		, fs 			= require('fs')
-		, Related 			= require('related');
+		, Related 		= require('related');
 
 
 
 	var   ReferenceCounter = require('../')
-		, Promise = (Promise || require('es6-promise').Promise)
 		, sqlStatments
 		, extension
 		, related
