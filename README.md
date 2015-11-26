@@ -2,7 +2,6 @@
 
 Count references items on your entities.
 
-
 [![npm](https://img.shields.io/npm/dm/related-reference-counter.svg?style=flat-square)](https://www.npmjs.com/package/related-reference-counter)
 [![Travis](https://img.shields.io/travis/eventEmitter/related-reference-counter.svg?style=flat-square)](https://travis-ci.org/eventEmitter/related-reference-counter)
 [![node](https://img.shields.io/node/v/related-reference-counter.svg?style=flat-square)](https://nodejs.org/)
