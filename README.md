@@ -1,5 +1,7 @@
 # related-reference-counter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/related-reference-counter.svg)](https://greenkeeper.io/)
+
 Count references items on your entities.
 
 [![npm](https://img.shields.io/npm/dm/related-reference-counter.svg?style=flat-square)](https://www.npmjs.com/package/related-reference-counter)
